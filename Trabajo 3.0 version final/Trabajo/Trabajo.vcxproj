@@ -127,9 +127,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arbol.h" />
-    <ClInclude Include="Columna.h" />
-    <ClInclude Include="Fila.h" />
-    <ClInclude Include="Tabla.h" />
+    <ClInclude Include="ArbolFloat.h" />
+    <ClInclude Include="ArbolInt.h" />
+    <ClInclude Include="ArbolStr.h" />
+    <ClInclude Include="Prueba.h" />
+    <ClInclude Include="Prueba2.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
